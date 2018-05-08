@@ -13,7 +13,7 @@ body
 }
 
 #menu_list li i{
-    font-size: 35px;
+    font-size: 32px;
     padding: 0px 7px 0px 0px ;
 }
 
@@ -32,10 +32,10 @@ body
 #content{
     background-color:#9999;
     background-image: url("work_place.jpg");
-    background-size: 120%;  
+    background-size: 100%;  
     background-repeat: no-repeat;
     padding: 200px 40px 30px 200px;
-    font-style: oblique;
+    font-style: italic;
     font-size: 35px;
 }
 
